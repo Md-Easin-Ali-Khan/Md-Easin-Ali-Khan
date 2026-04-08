@@ -46,16 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Easin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=radical\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=radical\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername\&theme=radical\&hide_border=true)
-
----
-
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: [https://www.linkedin.com/in/md-easin-webdev/](https://www.linkedin.com/in/md-easin-webdev/)
