@@ -37,8 +37,8 @@
 ### 🛒 Digitools Platform
 
 👉 A modern digital tools marketplace
-🔗 Live: [(https://digitool-platform.netlify.app/)](https://assignment-6-digitool-platform.netlify.app/)
-🔗 Repo: [(https://github.com/Md-Easin-Ali-Khan/digitools-platform)](https://github.com/Md-Easin-Ali-Khan/assignment-6-digitools-platform)
+🔗 Live: https://assignment-6-digitool-platform.netlify.app/
+🔗 Repo: https://github.com/Md-Easin-Ali-Khan/assignment-6-digitools-platform
 
 ---
 
@@ -56,4 +56,3 @@
 
 * 💼 LinkedIn: [https://www.linkedin.com/in/md-easin-webdev/](https://www.linkedin.com/in/md-easin-webdev/)
 * 📧 Email: [mdeasinalikhan9@gmail.com](mdeasinalikhan9@gmail.com)
-
