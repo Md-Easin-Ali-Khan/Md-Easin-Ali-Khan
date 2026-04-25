@@ -48,5 +48,5 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/md-easin-webdev/](https://www.linkedin.com/in/md-easin-webdev/)
+* 💼 LinkedIn: [[https://keenkeepere.netlify.app/](https://www.linkedin.com/in/md-easin-webdev/)]
 * 📧 Email: [mdeasinalikhan9@gmail.com](mdeasinalikhan9@gmail.com)
